@@ -42,5 +42,15 @@ sudo apt-get install ros-noetic-gazebo-ros-pkgs ros-noetic-gazebo-ros-control
 
 ## RESULTS
 
+```bash
+roslaunch my_robot_urdf blue.launch
+```
+```bash
+roslaunch my_robot_urdf teleop.launch 
+```
+```bash
+rostopic list
+```
+
 ![Screenshot from 2023-01-30 19-52-38](https://user-images.githubusercontent.com/61612220/215504191-294041a7-b356-403d-9ce7-ca4c2c893563.png)
 
