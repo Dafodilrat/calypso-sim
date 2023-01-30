@@ -42,12 +42,17 @@ sudo apt-get install ros-noetic-gazebo-ros-pkgs ros-noetic-gazebo-ros-control
 
 ## RESULTS
 
+Gazebo sim launcher:
 ```bash
 roslaunch my_robot_urdf blue.launch
 ```
+
+Teleop Launcher:
 ```bash
 roslaunch my_robot_urdf teleop.launch 
 ```
+
+Command to look at all topics:
 ```bash
 rostopic list
 ```
