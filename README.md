@@ -7,6 +7,10 @@
 Tried and tested on ROS Noetic with Gazebo version 11
 Make sure gazebo ros 
 
+Git Clone the repo:
+```bash
+git clone https://github.com/Dreadnought-Robotics/calypso-sim
+```
 
 #### Dependencies
 
