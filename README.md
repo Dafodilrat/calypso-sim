@@ -31,7 +31,7 @@ sudo apt-get install ros-noetic-joint-state-controller
 
 joint velocity controller : 
 ```bash
-sudo apt-get install ros*controller*
+sudo apt-get install noetic-velocity-controllers
 ```
 (installs all the controllers will be updated with specific one later)
 
